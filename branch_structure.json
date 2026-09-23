@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/add-issue-templates",
+    "fix-player-controller-tests-33",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/add-issue-templates": "main",
+    "fix-player-controller-tests-33": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/add-issue-templates",
+    "fix-player-controller-tests-33",
+    "origin"
+  ]
+}
